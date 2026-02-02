@@ -7,18 +7,18 @@ This project focuses on **frontend fundamentals**, real-time updates using JavaS
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🕒 Real-time digital clock (updates every second)
-* 📅 Displays current date
-* 🌗 Light / Dark mode toggle
-* ⚡ Fast and lightweight (Vite-powered)
-* 🎨 Clean and responsive UI
-* 🧩 Modular component-based structure
+*  Real-time digital clock (updates every second)
+*  Displays current date
+*  Light / Dark mode toggle
+*  Fast and lightweight (Vite-powered)
+*  Clean and responsive UI
+*  Modular component-based structure
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **React**
 * **TypeScript**
@@ -46,18 +46,6 @@ chronopulse-digital-clock/
 ├── vite.config.ts
 └── tsconfig.json
 ```
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-### ✅ Prerequisites
-
-* Node.js (v16 or above)
-
----
 
 ### ▶️ Run Locally
 
