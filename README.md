@@ -81,7 +81,7 @@ http://localhost:5173
 
 ---
 
-## 🧠 How It Works (Simple Explanation)
+## 🧠 How It Works 
 
 * JavaScript’s `Date()` object fetches the current time
 * A custom React hook updates the time every second
