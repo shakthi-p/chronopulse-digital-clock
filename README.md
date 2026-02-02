@@ -26,12 +26,6 @@ This project focuses on **frontend fundamentals**, real-time updates using JavaS
 * **CSS**
 * **JavaScript Date API**
 
-> ❗ Note:
-> This project **does NOT use any AI APIs or external services**.
-> It runs completely on the client side.
-
----
-
 ## 📁 Project Structure
 
 ```
